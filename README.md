@@ -17,6 +17,12 @@
 ### I Code In  
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/vue-js.png" />  
 
+### IDE and Tools I Use  
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/npm.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/postman-api.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma.png" />  
+
+### 💻 Workspace Spec  
+<img height="30" src="https://img.shields.io/badge/Windows-11_Home-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/Intel-Core_i5_11th_Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/8GB-RAM-1E90FF?style=for-the-badge&logo=windows&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/SSD-256GB-6DBF5A?style=for-the-badge&logo=samsung&logoColor=white"/>
+
 ---
 
 ### GitHub Stats  
