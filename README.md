@@ -26,9 +26,7 @@
 
 ### GitHub Stats  
 ![Ranjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanjithSanthosh&theme=dark&show_icons=true&&hide=issues,contribs)
-
-### LeetCode Stats  
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Ranjithkumar1?ext=contest&theme=dark)](https://leetcode.com/Ranjithkumar1)  
+ 
 
 ![RanjithSanthosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RanjithSanthosh&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)
 
